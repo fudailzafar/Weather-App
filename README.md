@@ -18,13 +18,6 @@ This project is a **Weather App** built using **HTML, CSS, and JavaScript**. The
 2. **Fetch Data from API**: Using JavaScript, the app sends a request to the OpenWeatherMap API with the city name and retrieves the weather data.
 3. **Display Weather Data**: The weather data is then displayed on the website, showing the current temperature, weather condition, humidity, and wind speed.
 
-## Technologies Used
-
-- **HTML**: For the structure of the app.
-- **CSS**: For styling the app.
-- **JavaScript**: For fetching weather data from the API and dynamically displaying it on the webpage.
-- **OpenWeatherMap API**: The app uses this free API to get current weather data.
-
 ## How to Use
 
 1. Enter the name of a city in the search box.
