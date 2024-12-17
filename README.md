@@ -13,12 +13,24 @@ A simple weather application that displays current weather data for a city enter
 ## Project Structure
 
 ```bash
-Weather-App/
-│
-├── index.html       # Main HTML file for the structure of the app
-├── style.css        # CSS file for styling the weather card
-├── script.js        # JavaScript file for fetching data and DOM manipulation
-└── images/          # Folder containing weather icons (clouds.png, clear.png, rain.png, etc.)
+└── Weather-App
+    ├── .env
+    ├── index.html
+    ├── eslint.config.js
+    ├── public
+    ├── images
+    ├── package.json
+    ├── vite.config.js
+    ├── README.md
+    └── src
+        ├── App.jsx
+        ├── index.css
+        ├── assets
+        ├── components
+        │   ├── Weather2.css
+        │   └── Weather.jsx
+        └── main.jsx
+
 ```
 
 ## How to Run the Project
